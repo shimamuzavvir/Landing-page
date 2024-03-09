@@ -105,9 +105,8 @@
  padding: 20px;
  
 }
-.card {
+#chocolate .col {
   padding: 20px;
-  height: 400px; /* Adjust the height as needed */
 }
 
 .card-img-top {
