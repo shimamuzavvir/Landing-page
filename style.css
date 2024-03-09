@@ -107,6 +107,7 @@
 }
 #chocolate .col {
   padding: 20px;
+  column-gap: 10px;
 }
 
 .card-img-top {
