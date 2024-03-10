@@ -105,9 +105,10 @@
  padding: 20px;
  
 }
-#chocolate .col {
-  padding: 20px;
-  column-gap: 10px;
+.card {
+  padding: 10px;
+  position: relative;
+ 
 }
 
 .card-img-top {
@@ -145,6 +146,9 @@
 #chocolate .row{
   margin: 10px;
   border: 10px;
+  padding: 10px;
+}
+#chocolate .col{
   padding: 10px;
 }
 #contact{
